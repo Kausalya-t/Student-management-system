@@ -12,4 +12,3 @@ This project demonstrates core Java concepts such as classes, objects, collectio
 - Display student details in a formatted way
 
 ---
-
